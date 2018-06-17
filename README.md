@@ -1,2 +1,2 @@
 # astarjava
-A* algorithm in Java
+An implementation of A* algorithm in Java
